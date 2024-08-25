@@ -1,4 +1,4 @@
-# 🚀 Otimizando Imagem Docker com Multi-Stage Build 🚀
+# 🚀Otimizando Imagem Docker com Multi-Stage Build🚀
 Sem dúvida alguma, este é um tópico muito importante quando pensasmos em serviços grandes e escaláveis. <br/></br>
 Não só pelo fato de você conseguir gerar imagens mais leves, rapidas e seguras, mas também, pelo simples fato que isso pode ter um impacto significante no custo de serviços Cloud. <br/></br>
 Como, por exemplo, o ECR (**Amazon Elastic Container Registry**) é um serviço da AWS para armazenar e gerenciar imagens Docker, que na minha concepção, é bem semelhante ao Docker Hub. Este serviço, tem uma grande importancia pensando na AWS, principalmente por ter a possibilidade de ser integrado há outros serviços, como, Amazon Elastic Container Service (Amazon ECS), Amazon Elastic Kubernetes Service (Amazon EKS) e ao AWS Lambda. <br/></br>
